@@ -44,6 +44,9 @@ The project generates:
 - Pie Chart
 - Daily Trend Chart
 
+<img width="1918" height="701" alt="image" src="https://github.com/user-attachments/assets/531d4e84-55aa-4a07-9678-0e2bee691ded" />
+
+
 ## Author
 
 Ponnagarajan Murugan
